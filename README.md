@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Preeti+Shekhawat!;" />
@@ -9,14 +8,15 @@
 <br/>
 
 <div align="center">
+
+💬 Youn can ask me about **HTML, CSS, JAVASCRIPT, REACT, THREE.js AND ELECTRON.js**
+
+🌱 I’m currently learning **Node.js, PHP**
+
+⚡ Interesting fact **I know Computer Netwoking and Linux**
  
-📫 How to reach me **thepreetishekhawat@gmail.com**
+ 📫 How to reach me **thepreetishekhawat@gmail.com**
 
- 🌱 I’m currently learning **Node.js, PHP**
-
-💬 Ask me about **HTML, CSS, JAVASCRIPT, React, ELECTRON.js**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
