@@ -9,13 +9,13 @@
 
 <div align="center">
 
-💬 You can ask me about **HTML, CSS, JAVASCRIPT, REACT, THREE.js AND ELECTRON.js**
+💬 You can ask me about **"HTML, CSS, JAVASCRIPT, REACT, THREE.js AND ELECTRON.js"**
 
-🌱 I’m currently learning **Node.js, PHP**
+🌱 I’m currently learning **"Node.js, PHP"**
 
-⚡ Interesting fact **I know Computer Netwoking and Linux**
+⚡ Interesting fact **"I know Computer Netwoking and Linux"**
  
- 📫 How to reach me **thepreetishekhawat@gmail.com**
+ 📫 How to reach me **"thepreetishekhawat@gmail.com"**
 
 
  </div>
