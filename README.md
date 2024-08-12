@@ -9,7 +9,7 @@
 
 <div align="center">
 
-💬 Youn can ask me about **HTML, CSS, JAVASCRIPT, REACT, THREE.js AND ELECTRON.js**
+💬 You can ask me about **HTML, CSS, JAVASCRIPT, REACT, THREE.js AND ELECTRON.js**
 
 🌱 I’m currently learning **Node.js, PHP**
 
