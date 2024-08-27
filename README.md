@@ -7,7 +7,6 @@
 
 <br/>
 
-[![HitCount](https://hits.dwyl.com/thepreetishekhawat/thepreetishekhawat.svg?style=flat-square)](http://hits.dwyl.com/thepreetishekhawat/thepreetishekhawat)
 
 <div align="center">
 
